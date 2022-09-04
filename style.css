@@ -121,6 +121,7 @@ input:focus {
     border-radius: 4px;
     font-weight: 700;
     cursor: pointer;
+    text-transform: uppercase;
     box-shadow: 0 3px 1px hsl(154, 50%, 38%);
     transition: .2s;
 }
